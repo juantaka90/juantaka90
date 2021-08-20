@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+boy {
+    background-color: aqua;
+}
+h1 {
+    text-align: center;
+    color: blue;
+}
+p {
+    color: red;
+}
