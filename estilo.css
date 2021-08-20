@@ -12,3 +12,8 @@ h1 {
 p {
     color: red;
 }
+h2 {
+    color:brown;
+    text-align: right;
+    font-size: 5px;
+}
